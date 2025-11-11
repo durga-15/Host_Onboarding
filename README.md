@@ -4,7 +4,7 @@ Onboarding Questionnaire for Hotspot Hosts
 
 ## Project Summary
 
-###Features Implemented
+Features Implemented
 - Multi-select experience cards with images from API.
 
 - Text fields with character limits.
@@ -15,7 +15,7 @@ Onboarding Questionnaire for Hotspot Hosts
 
 - Responsive UI with animations.
 
-###Brownie Points
+Brownie Points
 - Pixel-perfect design per Figma.
 
 - State managed with Riverpod, API calls with Dio.

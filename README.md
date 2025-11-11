@@ -1,16 +1,34 @@
-# host_onboarding
+# Host_Onboarding
 
-A new Flutter project.
+Onboarding Questionnaire for Hotspot Hosts
+
+## Project Summary
+
+###Features Implemented
+- Multi-select experience cards with images from API.
+
+- Text fields with character limits.
+
+- Audio recording with waveform, and video recording.
+  
+- Option to delete a recorded audio or video. 
+
+- Responsive UI with animations.
+
+###Brownie Points
+- Pixel-perfect design per Figma.
+
+- State managed with Riverpod, API calls with Dio.
+
+- Animations for card selection and Next button.
 
 ## Getting Started
+- Clone the repo:
+git clone <repo-url>
 
-This project is a starting point for a Flutter application.
+- Install dependencies:
+flutter pub get
 
-A few resources to get you started if this is your first Flutter project:
+- Run the app:
+flutter run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
